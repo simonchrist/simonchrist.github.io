@@ -42,7 +42,7 @@ p {
 }
 
 strong {
-  color: #cc6c68;
+  color: #58b6a4;
   font-weight: 700;
 }
 
@@ -93,7 +93,7 @@ footer {
 
 /* Feature */
 #feature {
-  background: #cc6c68;
+  background: #58b6a4;
 }
 
 #feature .fa {
@@ -158,7 +158,7 @@ footer {
 }
 
 #contact input[type='submit']:hover {
-  background: #cc6c68;
+  background: #58b6a4;
 }
 
 
@@ -212,7 +212,7 @@ footer a:hover {
 }
 
 .go-top:hover {
-    background: #cc6c68;
+    background: #58b6a4;
     color: #ffffff;
 }
 
@@ -243,7 +243,7 @@ footer a:hover {
 }
 
 .social-icon li a:hover {
-  background-color: #cc6c68;
+  background-color: #58b6a4;
   color: #ffffff;
 }
 
